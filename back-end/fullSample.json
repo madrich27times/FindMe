@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "naja",
+        "last": "poulsen"
+      },
+      "location": {
+        "street": "2215 ringvej",
+        "city": "esbjergv",
+        "state": "syddanmark",
+        "postcode": 91170
+      },
+      "email": "naja.poulsen@example.com",
+      "login": {
+        "username": "tinyfrog533",
+        "password": "avatar",
+        "salt": "kuFbExga",
+        "md5": "a5fd0d4e4be47b4745f7076580a07432",
+        "sha1": "b31c395575a773d00b796de1188391d71c0edaff",
+        "sha256": "0a99cacaaa766595a1586ccba42ba6a002c084c2460b2229f52b3ea89be62904"
+      },
+      "dob": "1960-03-03 22:47:10",
+      "registered": "2014-03-28 03:15:27",
+      "phone": "85037667",
+      "cell": "56025226",
+      "id": {
+        "name": "CPR",
+        "value": "902017-1726"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/91.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+      },
+      "nat": "DK"
+        }
+  ],
+  "info": {
+    "seed": "24a315f31fc4d7be",
+    "results": 1,
+    "page": 1,
+    "version": "1.1"
+  }
+}
